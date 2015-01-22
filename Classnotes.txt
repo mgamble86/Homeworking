@@ -1,4 +1,7 @@
-Last login: Mon Jan 19 14:19:11 on ttys000
+I'M MAKING CHANGES!!!!!   HAHAHAHAHAHHAHAHAHAHAH!
+
+THIS WILL TEACH YOU TO FORK WITH ME!!!!!!!!!
+
 Sarah-Helmans-MacBook-Pro:~ sarahhelman$ cd MyDataScienceToolbox
 Sarah-Helmans-MacBook-Pro:MyDataScienceToolbox sarahhelman$ vagrant ssh
 Welcome to Ubuntu 14.04 LTS (GNU/Linux 3.13.0-24-generic x86_64)
